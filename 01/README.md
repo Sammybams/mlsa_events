@@ -1,3 +1,3 @@
 # First - Event
 
-## *Deploying your ML models in notebooks using Azure ML Studio*
+## *Deploying ML models in notebooks using Azure ML Studio*
