@@ -16,5 +16,5 @@ Whether you're a seasoned designer or just starting in the field, you'll have go
 Introduction (Microsoft Designer and Power Apps) slide - https://bit.ly/transforming_designs_with_ai_slide
 
 Building a Portfolio Website slide - https://docs.google.com/presentation/d/1d_2gua7AZ7ZAgccHIyv0OQnlneGDWYP9wbJ--CID5EM/edit#slide=id.p
-
+<br>
 Leveraging AI for UI/UX slide - https://docs.google.com/presentation/d/1-JwmSoIbQdzgygmrjLDDJKLKg1t-7qTkkYIKRMLYhV8/edit
