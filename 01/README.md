@@ -8,5 +8,5 @@ We'll cover how to convert your Jupyter notebooks into reusable scripts that can
 
 #
 Recording of the event - https://drive.google.com/file/d/1Xtxaw9M2esdv1pqgqDWbSsZ-VXRbyowP/view?usp=sharing
-
+<br>
 Meeting Slide - https://bit.ly/deploy_with_azureml_slide
