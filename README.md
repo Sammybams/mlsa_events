@@ -18,3 +18,12 @@ Introduction (Microsoft Designer and Power Apps) slide - https://bit.ly/transfor
 Building a Portfolio Website slide - https://docs.google.com/presentation/d/1d_2gua7AZ7ZAgccHIyv0OQnlneGDWYP9wbJ--CID5EM/edit#slide=id.p
 <br>
 Leveraging AI for UI/UX slide - https://docs.google.com/presentation/d/1-JwmSoIbQdzgygmrjLDDJKLKg1t-7qTkkYIKRMLYhV8/edit
+
+## [Leveraging Data to Mitigate Online Payment Fraud](https://youtu.be/ymvDq0t68PQ)
+We will be exploring the journey of a payment fraud expert and how he gained domain expertise in preventing and mitigating payment fraud by working with data
+
+We will also see a practical demo on how you can leverage Azure Automated ML to build and deploy an online payment fraud detection model.
+
+Slide for Ivan's session on the domain - https://bit.ly/leveraging_data_for_fraud_Ivan_slide
+<br>
+Slide for my session on a demo of using Azure Automated ML - https://bit.ly/leveraging_data_for_fraud_slide
